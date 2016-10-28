@@ -1,0 +1,6 @@
+Best Route Planning Program
+- Implemented A* Heuristic Search on .osm format map files to find best path between origin and destination
+- Performed the search using two algorithms, evaluated routes based on Manhattan distance and Euclidean distance
+
+//two map file: NanKing.osm, Madison_WI.osm
+//algorithms in the Yizhe_Qu_AStar.java
